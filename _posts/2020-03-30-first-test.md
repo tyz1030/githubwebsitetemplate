@@ -1,9 +1,9 @@
 ---
-title: "Welcome to Jekyll!"
+title: "tyz's first test"
 published: true
 ---
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello world**, this is tyz first Jekyll blog post.
 
 I hope you like it!
 
